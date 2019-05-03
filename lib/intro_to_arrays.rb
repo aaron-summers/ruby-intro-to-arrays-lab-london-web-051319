@@ -21,4 +21,7 @@ def last_element(array)
 end
 
 def first_element_with_array_methods(array)
-  first_index_value = array.
+  first_index_value = array.first
+  return first_index_value
+end
+
