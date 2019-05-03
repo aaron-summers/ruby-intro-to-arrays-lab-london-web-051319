@@ -7,3 +7,5 @@ def array_with_two_elements
   strongest_avengers = ["Thor", "Hulk"]
   strongest_avengers
 end
+
+def first_element(array)
