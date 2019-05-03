@@ -25,3 +25,8 @@ def first_element_with_array_methods(array)
   return first_index_value
 end
 
+def last_element_with_array_methods(array)
+  last_index_value = array.last
+  return last_index_value
+end
+
